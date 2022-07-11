@@ -87,49 +87,20 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* Simplified repeated css for each div inside the benefits class*/
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* Simplified repeated css for each h3 inside the benefits class */
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Simplified repeated css for each img inside the benefits class */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
