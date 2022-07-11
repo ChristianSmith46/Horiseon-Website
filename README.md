@@ -1,1 +1,4 @@
-# Code Refactor Starter Code
+# Module 1 Challenge
+This challenge is for practice refactoring and simplifying code in the codebase to make future work simple.  This was for a marketing website that deals with Search Engine Optimization.  The goal is to make changes to the current html and css, practice using git/github, and to deploy the site using github pages.  I decided to change the file structure to remove the "Develop" folder in order to keep the file structure simple and have the index.html exposed for a small project like this.
+
+You can find the deployed site at this url: https://christiansmith46.github.io/Horiseon-Website
